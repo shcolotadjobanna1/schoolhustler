@@ -1,0 +1,9 @@
+<meta charset='utf-8'>
+<Script type="text/javascript">
+  var user_asw=prompt('ты чорт');
+  if user_asw==('да'){
+  alert('точно чорт')
+  }
+  alert('ну ладно,не чорт.')
+  </script>
+  
